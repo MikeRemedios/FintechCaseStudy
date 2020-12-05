@@ -1,6 +1,6 @@
 # Coinsquare Case Study
 insert coinsquare logo here
-![alt text](https://github.com/MikeRemedios/FintechCaseStudy/blob/main/resources/images/logo.png?raw=true "Logo")
+![alt text](Resources/logo.png "Logo")
 
 ## Overview and Origin
 
