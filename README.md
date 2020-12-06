@@ -32,13 +32,23 @@ One of the biggest competitors in the space is Coinbase, and while Coinsquare is
 
 ## Sources
 https://www.daytrading.com/coinsquare
+
 https://news.coinsquare.com/digital-currency/coinsquare-founder-virgile-rostand-cryptocurrency/
+
 https://www.coindesk.com/crypto-exchange-coinsquare-secures-30-million-new-funding
+
 https://stackshare.io/coinsquare/coinsquare-com
+
 http://crypto.marketswiki.com/index.php?title=Coinsquare
+
 https://www.forbes.com/sites/tatianakoffman/2020/08/31/defi-the-hot-new-crypto-trend-of-2020/
+
 https://blog.coinbase.com/a-beginners-guide-to-decentralized-finance-defi-574c68ff43c4
+
 https://www.coinbureau.com/review/coinsquare/
+
 https://craft.co/coinsquare/
+
 https://coinmetrics.io/the-business-trends-of-crypto-exchanges/
+
 https://investmentbank.com/crypto-growth/
