@@ -10,10 +10,7 @@ Coinsquare was incorporated in 2014 by Virgile Rostand when he noticed the growi
 
 ## Business Activities:
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-SSL, 2FA
 
-* Write the damn thing here
 Coinsquare allows Canadians an easy way to buy and sell multiple cryptocurrencies, a task that was more difficult prior to its incorporation. Coinsquare seems to focus their efforts on providing a good client experience. They provide multiple trading platforms: one for basic trades and one with more advanced tools. Advanced trade includes tools to perform technical analysis, charting patterns and trend lines, as well as a collection of indicators that the user has and their disposal. Coinsquare has low, transparent fees that provide an easy entry for the majority of Canadians who are interested in starting their investments into the crypto domain. On top of that, Coinsquare provides extra benefits for high wealth clients; aptly named Coinsquare Wealth. Based on the size of trades, Wealth clients have lower fees and expedited services.
 
 Coinsquare uses SSL and 2FA for security; not much else is known as they state their use of a "proprietary platform". Their website uses NGINX and Google Cloud Platform to manage the application and data. 
