@@ -24,6 +24,11 @@ The Cryptocurrency domain has gone from practically non-existent to a major head
 The most recent trend in crypto is the advent of DeFi - decentralized finance. DeFi is an open source network that challenges the traditional financial industry by being completely transparent and automated with smart contracts, eliminating the middleman when it comes to buying and selling securities. DeFi differs from regular cryptocurrencies as it uses currency known as a stablecoin. Stablecoins have their value tied to fiat currencies, where cryptocurrencies such as Bitcoin are extremely volatile and their value is completely impacted by the market.
 
 
+## Recommendations
+
+
+One of the biggest competitors in the space is Coinbase, and while Coinsquare is extremely accessible to Canadians, Coinbase offers a much more advanced trading platform. Also, Coinbase has dedicated support staff while Coinsquare uses an automated ticket support system. With live support similar to Coinbase, Coinsquare could improve their goal of providing good client experience without much trouble - all it would take is to hire more staff. Unfortunately, security concerns surrounding Coinsquare and their lawsuit have disuaded Canadians from using their platform, resulting in the company laying off staff. With a new CEO, Coinsquare can aim to retake control of the Canadian crypto exchange market.
+
 
 ## Sources
 https://www.daytrading.com/coinsquare
